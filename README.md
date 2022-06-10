@@ -1,21 +1,21 @@
-# Hola, este es mi repositorio que utilizo como portfolio con los siguientes trabajos:
+# Hello, this is my repository that I use as a portfolio with the following works:
 
-**Trabajo individual en Unity**: https://github.com/LucianoLusvarghi/CityBuilder.git
+**Individual work in Unity**: https://github.com/LucianoLusvarghi/CityBuilder.git
 
-Trabajo grupal creado en una JAM de 48hs:
+**Group work created in a 48-hour JAM**:
 FireJam:
 
-Trabajos individuales en API propietaria de ESAT:
+**Individual works in the proprietary API of ESAT**:
 Gravitar:
 Scramble:
 
-Trabajo individual en SDL:
+**Individual work at SDL**:
  
 
-Trabajo grupal en Unity:
+**Group work in Unity**:
 Quiz Game:
 
-Motor grafico en grupo con OpenGL, glfw:
+**Group graphics engine with OpenGL and glfw**:
 
 
 
