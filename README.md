@@ -1,8 +1,6 @@
-Hola, este es mi repositorio que utilizo como portfolio con los siguientes trabajos:
+# Hola, este es mi repositorio que utilizo como portfolio con los siguientes trabajos:
 
-Trabajo individual en Unity:
-
-City Builder: https://github.com/LucianoLusvarghi/CityBuilder.git
+**Trabajo individual en Unity**: https://github.com/LucianoLusvarghi/CityBuilder.git
 
 Trabajo grupal creado en una JAM de 48hs:
 FireJam:
@@ -12,12 +10,12 @@ Gravitar:
 Scramble:
 
 Trabajo individual en SDL:
-- 
+ 
 
 Trabajo grupal en Unity:
 Quiz Game:
 
-Motor grafico en grupo con OpenGL, glfw e Imgui :
--
+Motor grafico en grupo con OpenGL, glfw:
+
 
 
