@@ -1,21 +1,32 @@
-# Hello, this is my repository that I use as a portfolio with the following works:
+# Hello, this is my portfolio with the following works:
+Unfortunately, the CODE of these works are under NDA, please contact me if you are interested by the following means:
+
+e-mail: luciano.lusvarghi.contact@gmail.com
+
+LinkedIN: https://www.linkedin.com/in/luciano-lusvarghi-927503219/
+
+skype: live:luciano.e.lusvarghi
+
+## Works in UNITY & C#
 
 [**Individual work in Unity**](https://github.com/LucianoLusvarghi/CityBuilder.git)  
 
-**Group work created in a 48-hour JAM**:  
-[FireJam](https://github.com/LucianoLusvarghi/Game-JAM)  
+[**Group work in Unity**: ](https://github.com/LucianoLusvarghi/Little-smartphone-game)  
 
-**Individual works in the proprietary API of ESAT**:  
+[**48-hour JAM**](https://github.com/LucianoLusvarghi/Game-JAM)  
+
+## Works in C++ & ESAT SDK
+
+**Individual works**:  
 [Gravitar](https://github.com/LucianoLusvarghi/Gravitar)  
 [Scramble](https://github.com/LucianoLusvarghi/Scramble)  
 
+
+## Works in C++ & SDL
 [**Individual work at SDL**](https://github.com/LucianoLusvarghi/Proyect_in_SDL)
 
-
-**Group work in Unity**:  
-[Quiz Game](https://github.com/LucianoLusvarghi/Little-smartphone-game)  
-
-[**Group graphics engine with OpenGL and glfw**](https://github.com/LucianoLusvarghi/Little-Graphic-Engine)
+## Works in C++ & GLFW & OpenGL
+[**Group little graphics engine**](https://github.com/LucianoLusvarghi/Little-Graphic-Engine)
 
 
 
