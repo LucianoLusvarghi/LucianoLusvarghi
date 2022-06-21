@@ -1,5 +1,5 @@
 # Hello, this is my portfolio with the following works:
-Unfortunately, the CODE of these works are under NDA, please contact me if you are interested by the following means:
+Unfortunately, the **CODE** of these works are under **NDA**, that's why there are **only the builds**, please contact me if you are interested by the following means:
 
 e-mail: luciano.lusvarghi.contact@gmail.com
 
