@@ -1,5 +1,5 @@
 # Hello, this is my portfolio with the following works:
-Unfortunately, the **CODE** of these works are under **NDA**, that's why there are **only the builds**, please contact me if you are interested by the following means:
+### Unfortunately, the **CODE** of these works are under **NDA**, that's why there are **ONLY THE BUILDS**, please contact me if you are interested by the following means:
 
 e-mail: luciano.lusvarghi.contact@gmail.com
 
@@ -25,7 +25,7 @@ skype: live:luciano.e.lusvarghi
 ## Works in C++ & SDL
 [**Individual work at SDL**](https://github.com/LucianoLusvarghi/Proyect_in_SDL)
 
-## Works in C++ & GLFW & OpenGL
+## Works in C++, GLFW, OpenGL & LUA
 [**Group little graphics engine**](https://github.com/LucianoLusvarghi/Little-Graphic-Engine)
 
 
