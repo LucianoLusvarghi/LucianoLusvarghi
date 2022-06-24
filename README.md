@@ -9,7 +9,7 @@ skype: live:luciano.e.lusvarghi
 
 ## Works in UNITY & C#
 
-[**Individual work in Unity**](https://github.com/LucianoLusvarghi/CityBuilder.git)  
+[**CityBuilder in Unity**](https://github.com/LucianoLusvarghi/CityBuilder.git)  
 
 [**Group work in Unity**: ](https://github.com/LucianoLusvarghi/Little-smartphone-game)  
 
