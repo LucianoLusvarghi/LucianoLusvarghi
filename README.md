@@ -15,18 +15,21 @@ skype: live:luciano.e.lusvarghi
 
 [**48-hour JAM**](https://github.com/LucianoLusvarghi/Game-JAM)  
 
+## Works in C++, GLFW, OpenGL & LUA
+[**Group little graphics engine**](https://github.com/LucianoLusvarghi/Little-Graphic-Engine)
+
+
+## Works in C++ & SDL
+[**Individual work at SDL**](https://github.com/LucianoLusvarghi/Proyect_in_SDL)
+
+
+
 ## Works in C++ & ESAT SDK
 
 **Individual works**:  
 [Gravitar](https://github.com/LucianoLusvarghi/Gravitar)  
 [Scramble](https://github.com/LucianoLusvarghi/Scramble)  
 
-
-## Works in C++ & SDL
-[**Individual work at SDL**](https://github.com/LucianoLusvarghi/Proyect_in_SDL)
-
-## Works in C++, GLFW, OpenGL & LUA
-[**Group little graphics engine**](https://github.com/LucianoLusvarghi/Little-Graphic-Engine)
 
 
 
