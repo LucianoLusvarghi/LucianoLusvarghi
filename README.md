@@ -11,7 +11,7 @@ skype: live:luciano.e.lusvarghi
 
 [**CityBuilder in Unity**](https://github.com/LucianoLusvarghi/CityBuilder.git)  
 
-[**Group work in Unity**: ](https://github.com/LucianoLusvarghi/Little-smartphone-game)  
+[**Group work in Unity - Smartphone Trivia game**: ](https://github.com/LucianoLusvarghi/Little-smartphone-game)  
 
 [**48-hour JAM**](https://github.com/LucianoLusvarghi/Game-JAM)  
 
