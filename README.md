@@ -1,34 +1,45 @@
 # Hello, this is my portfolio with the following works:
-### Unfortunately, the **CODE** of these works are under **NDA**, that's why there are **ONLY THE BUILDS**, please contact me if you are interested by the following means:
+### Unfortunately, some **CODE** of these works are under **NDA**, that's why there are **ONLY THE BUILDS**, please contact me if you are interested by the following means:
 
 e-mail: luciano.lusvarghi.contact@gmail.com
 
 LinkedIN: https://www.linkedin.com/in/luciano-lusvarghi-927503219/
 
-skype: live:luciano.e.lusvarghi
-
 ## Works in UNITY & C#
 
-Game Demo: [**CityBuilder in Unity**](https://github.com/LucianoLusvarghi/CityBuilder.git)  
+**CityBuilder in Unity**  
+[Download](https://drive.google.com/file/d/1sYWKn-7ZTv1pLyWGa0o9CI-BXYXLvbIb/view?usp=sharing)  
+[Code](https://github.com/LucianoLusvarghi/CityBuilder-Code)  
+[Video](https://youtu.be/mJi1daDCHOM)  
 
-Game Demo: [**Group work in Unity - Smartphone Trivia game**: ](https://github.com/LucianoLusvarghi/Little-smartphone-game)  
+**Group work in Unity - Smartphone Trivia game**  
+[Download](https://drive.google.com/file/d/1ZAFbDfnXnKz1VIf9zLrK9MZAsC0hO0rj/view?usp=sharing)  
+Code: Upon request  
+[Video](https://youtu.be/BpX03sYb9e0)  
 
-Game Demo: [**48-hour JAM**](https://github.com/LucianoLusvarghi/Game-JAM)  
+**48-hour JAM**  
+[Download](https://drive.google.com/file/d/1fADjxrWA4_O9Om-v22NH3ksfBKRA3ffS/view?usp=sharing)  
+Code: Upon request  
+[Video](https://youtu.be/hBsYdaRq1Ok)  
 
-## Works in C++, GLFW, OpenGL & LUA
-Technical Demo: [**Group little graphics engine**](https://github.com/LucianoLusvarghi/Little-Graphic-Engine)
+## Works in C++ & SDL  
 
+**Individual work at SDL**  
+[Download](https://drive.google.com/file/d/11GH9_FtB4PyEOejcNURA_ZdRS_MJjdvM/view?usp=sharing)  
+[Code](https://github.com/LucianoLusvarghi/Proyect_in_SDL-Code)  
+[Video](https://youtu.be/3nPPhjezoeQ)  
 
-## Works in C++ & SDL
-Technical Demo: [**Individual work at SDL**](https://github.com/LucianoLusvarghi/Proyect_in_SDL)
+## Works in C++ & ESAT SDK  
 
+**Gravitar**  
+[Download](https://drive.google.com/file/d/1tZeqqOPM-_XGlFU_XCpKx75WrL5jF2si/view?usp=sharing)  
+Code: Upon request   
+[Video](https://youtu.be/945LHKmywDQ)   
 
-
-## Works in C++ & ESAT SDK
-
-**Individual works**:  
-Game Demo: [Gravitar](https://github.com/LucianoLusvarghi/Gravitar)  
-Game Demo: [Scramble](https://github.com/LucianoLusvarghi/Scramble)  
+**Scramble**   
+[Download](https://drive.google.com/file/d/1SiVaF7J3emfEm24rwBY3v4C-ryW4bop0/view?usp=sharing)   
+Code: Upon request   
+[Video](https://youtu.be/f1dGWE5JQig)   
 
 
 
